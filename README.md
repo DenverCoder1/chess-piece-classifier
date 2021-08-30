@@ -22,7 +22,7 @@ I used the [Tensorflow Image Classification Model Maker](https://www.tensorflow.
 
 ![image](https://user-images.githubusercontent.com/20955511/131260911-44984a19-0177-447a-bb89-a115d151a6de.png)
 
-The model was trained remotely using Google Colab and a copy of the Python notebook can be found [here](model_maker.ipynb).
+The model was trained remotely using Google Colab and a copy of the Python notebook can be found [here](https://colab.research.google.com/drive/1AIsa43KHs2cywEfi3Xj5hJtrPI_Z7aiN?usp=sharing).
 
 ## What about the website?
 

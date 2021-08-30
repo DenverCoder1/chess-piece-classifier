@@ -4,11 +4,13 @@ This is a simple demonstration of the capabilities of a Tensorflow Lite image cl
 
 It was created for a presentation in an Introduction to AI course in August 2021.
 
-![Peek 2021-08-29 21-18](https://user-images.githubusercontent.com/20955511/131261161-1fb7b30b-2250-4255-a6be-5444bf34925b.gif)
+[![Peek 2021-08-29 21-18](https://user-images.githubusercontent.com/20955511/131261161-1fb7b30b-2250-4255-a6be-5444bf34925b.gif)](https://denvercoder1.github.io/chess-piece-classifier/)
 
 ## What is this?
 
 This is a basic web interface that uses a Tensorflow Lite image classifier to classify chess pieces.
+
+View the demo here: https://denvercoder1.github.io/chess-piece-classifier/
 
 ## Where is the data from?
 
